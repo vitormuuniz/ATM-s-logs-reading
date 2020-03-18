@@ -1,0 +1,221 @@
+****************************************
+DEPOSITO SANGRIA
+
+DATA: 05/12/2019       HORA: 12:00
+ID ATM: 00000016    SEQUENCIA:000156
+ID OPERADOR: 000001007
+NOME OPERADOR: Operador Deposito 1007
+
+ID COLETA: C1C23CDF
+ID SANGRIA: 0000011111
+PDV: 123456
+
+CONTADORES ANTES DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00000    $        0,00
+$     10,00       00001    $       10,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 5,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 5,00
+Denominacao  Quantidade    Total
+$      2,00       00000     $        0,00
+$      5,00       00001     $        5,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00001    $        5,00
+$     10,00       00001    $       10,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+
+****************************************
+DEPOSITO SANGRIA
+
+DATA: 05/12/2019       HORA: 12:10
+ID ATM: 00000016    SEQUENCIA:000156
+ID OPERADOR: 000001007
+NOME OPERADOR: Operador Deposito 1007
+
+ID COLETA: C1C23CDF
+ID SANGRIA: 0000011111
+PDV: 123456
+
+CONTADORES ANTES DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00000    $        0,00
+$     10,00       00001    $       10,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 5,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 5,00
+Denominacao  Quantidade    Total
+$      2,00       00000     $        0,00
+$      5,00       00001     $        5,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00001    $        5,00
+$     10,00       00001    $       10,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+
+****************************************
+DEPOSITO 
+ 
+DATA: 05/12/2019       HORA: 12:20
+ID ATM: 00000016    SEQUENCIA:000157
+ID OPERADOR: 000001007 
+NOME OPERADOR:  
+ 
+ID COLETA:  
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00009    $       18,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00001    $       50,00
+$    100,00       00000    $        0,00
+
+ 
+
+
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: NOTA INSERIDA   VALOR: 10,00
+EVT: ACEITADOR DESABILITADO
+
+ 
+
+VALOR DEPOSITADO: 18,00
+Denominacao  Quantidade    Total
+$    2,00     00004     $        8,00
+$    5,00     00000     $        0,00
+$   10,00     00001     $       10,00
+$   20,00     00000     $        0,00
+$   50,00     00000     $        0,00
+$  100,00     00000     $        0,00
+
+ 
+
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00013    $       26,00
+$      5,00       00000    $        0,00
+$     10,00       00001    $       10,00
+$     20,00       00000    $        0,00
+$     50,00       00001    $       50,00
+$    100,00       00000    $        0,00
+
+****************************************
+DEPOSITO
+
+DATA: 05/12/2019       HORA: 12:30
+ID ATM: 00000016    SEQUENCIA:000157
+ID OPERADOR: 000001007
+NOME OPERADOR:
+
+ID COLETA: 7A096513
+
+CONTADORES ANTES DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00001    $      100,00
+
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: NOTA INSERIDA   VALOR: 5,00
+EVT: NOTA INSERIDA   VALOR: 20,00
+EVT: NOTA INSERIDA   VALOR: 50,00
+EVT: NOTA INSERIDA   VALOR: 100,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 177,00
+Denominacao  Quantidade    Total
+$      2,00       00000     $        0,00
+$      5,00       00001     $        5,00
+$     10,00       00000     $        0,00
+$     20,00       00001     $       20,00
+$     50,00       00001     $       50,00
+$    100,00       00001     $      100,00
+CONTADORES DEPOIS DO DEPOSITO
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00001    $        5,00
+$     10,00       00000    $        0,00
+$     20,00       00001    $       20,00
+$     50,00       00001    $       50,00
+$    100,00       00002    $      200,00
+
+CONTADORES NAO CONFEREM
+POSSIVEL DIFERENCA - REQUER CONFERENCIA
+
+****************************************
+RECOLHIMENTO 
+
+DATA: 01/12/2019       HORA: 12:40
+ID ATM: 0000017    SEQUENCIA:000157
+ID OPERADOR: 000001007
+NOME OPERADOR: Operador Deposito 1007
+ 
+ID COLETA:  030204
+
+CODIGO DO LACRE: 123456789012345
+
+ 
+VALORES ANTES DO RECOLHIMENTO 
+	  
+DEPOSITOS VALIDADOS:                0004 
+VALORES VALIDADOS (V):            252,00 
+ 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00001    $       50,00
+$    100,00       00002    $      100,00
+ 
+TOTAL DEPOSITADO (V):             252,00 
+ 
+VALORES DEPOIS DO RECOLHIMENTO 
+ 
+DEPOSITOS VALIDADOS:                0000 
+VALORES VALIDADOS (V):              0,00 
+ 
+Denominacao  Quantidade    Total
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+TOTAL DEPOSITADO (V):               0,00 

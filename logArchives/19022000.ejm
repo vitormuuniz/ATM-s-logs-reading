@@ -1,0 +1,459 @@
+**************************************** 
+DEPOSITO SANGRIA  
+ 
+DATA: 19/02/2020       HORA: 08:40 
+ID ATM: 0000016    SEQUENCIA:001088 
+ID OPERADOR: 001008 
+NOME: Gerente Loja 1008 
+ 
+ID COLETA: 967FB962 
+ID SANGRIA: 0000000001234 
+PDV: 0000000001478 
+ 
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 2,00
+Denominacao  Quantidade    Total
+$      2,00       00001     $        2,00
+$      5,00       00000     $        0,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+****************************************
+    
+RECOLHIMENTO 
+ 
+DATA: 19/02/2020       HORA: 09:46 
+ID ATM: 0000016    SEQUENCIA:001115 
+ID OPERADOR: 003007 
+NOME: Operador Coleta 3007 
+ 
+ID COLETA: 967FB962 
+ 
+VALORES ANTES DO RECOLHIMENTO 
+	  
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0002           4,00 
+(A) TOTAL:                          4,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0001       3.600,00 
+    CHEQUES SANGRIA: 0000           0,00 
+(B) TOTAL:                      3.600,00 
+  
+TOTAL (A + B):                  3.604,00 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00002    $        4,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+VALORES DEPOIS DO RECOLHIMENTO 
+ 
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0000           0,00 
+(A) TOTAL:                          0,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0000           0,00 
+    CHEQUES SANGRIA: 0000           0,00 
+(B) TOTAL:                          0,00 
+  
+TOTAL (A + B):                      0,00 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+**************************************** 
+DEPOSITO SANGRIA  
+ 
+DATA: 19/02/2020       HORA: 10:27 
+ID ATM: 0000016    SEQUENCIA:001136 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: B20732AC 
+ID SANGRIA: 0000000000369 
+PDV: 0000000000963 
+ 
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 2,00
+Denominacao  Quantidade    Total
+$      2,00       00001     $        2,00
+$      5,00       00000     $        0,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+**************************************** 
+DEPOSITO ENVELOPE SANGRIA 
+ 
+DATA: 19/02/2020       HORA: 10:29 
+ID ATM: 0000016    SEQUENCIA:001137 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: B20732AC 
+ 
+ID SANGRIA: 0000000000753 
+PDV:0000000000357 
+ 
+ENVELOPE ID: 00000000000000000123 
+VALOR EM CEDULAS: R$ 2.006,00 
+VALOR EM CHEQUES: R$ 0,36 
+ 
+Denominacao  Quantidade    Total
+$      2,00       00003    $           6,00
+$      5,00       00000    $           0,00
+$     10,00       00000    $           0,00
+$     20,00       00000    $           0,00
+$     50,00       00000    $           0,00
+$    100,00       00020    $       2.000,00
+Cheque            00001    $           0,36 
+ 
+TOTAL DEPOSITADO: R$ 2.006,36 
+ 
+O VALOR SERA CREDITADO APOS CONFERENCIA  
+DO CONTEUDO DO ENVELOPE. 
+EM CASO DE DIFERENCA SERA CREDITADO O  
+VALOR CONFERIDO E NAO O VALOR DECLARADO. 
+ 
+****************************************
+    
+RECOLHIMENTO 
+ 
+DATA: 19/02/2020       HORA: 10:29 
+ID ATM: 0000016    SEQUENCIA:001141 
+ID OPERADOR: 003007 
+NOME: Operador Coleta 3007 
+ 
+ID COLETA: B20732AC 
+ 
+VALORES ANTES DO RECOLHIMENTO 
+	  
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0001           2,00 
+(A) TOTAL:                          2,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0002       5.206,00 
+    CHEQUES SANGRIA: 0001           0,36 
+(B) TOTAL:                      5.206,36 
+  
+TOTAL (A + B):                  5.208,36 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+VALORES DEPOIS DO RECOLHIMENTO 
+ 
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0000           0,00 
+(A) TOTAL:                          0,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0000           0,00 
+    CHEQUES SANGRIA: 0000           0,00 
+(B) TOTAL:                          0,00 
+  
+TOTAL (A + B):                      0,00 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+**************************************** 
+DEPOSITO SANGRIA  
+ 
+DATA: 19/02/2020       HORA: 11:07 
+ID ATM: 0000016    SEQUENCIA:001165 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: 7DE143CF 
+ID SANGRIA: 0000000000333 
+PDV: 0000000000666 
+ 
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 2,00
+Denominacao  Quantidade    Total
+$      2,00       00001     $        2,00
+$      5,00       00000     $        0,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+**************************************** 
+DEPOSITO ENVELOPE SANGRIA 
+ 
+DATA: 19/02/2020       HORA: 11:08 
+ID ATM: 0000016    SEQUENCIA:001166 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: 7DE143CF 
+ 
+ID SANGRIA: 0000000000456 
+PDV:0000000000987 
+ 
+ENVELOPE ID: 00000000000000000159 
+VALOR EM CEDULAS: R$ 935,00 
+VALOR EM CHEQUES: R$ 0,66 
+ 
+Denominacao  Quantidade    Total
+$      2,00       00005    $          10,00
+$      5,00       00005    $          25,00
+$     10,00       00005    $          50,00
+$     20,00       00005    $         100,00
+$     50,00       00005    $         250,00
+$    100,00       00005    $         500,00
+Cheque            00001    $           0,66 
+ 
+TOTAL DEPOSITADO: R$ 935,66 
+ 
+O VALOR SERA CREDITADO APOS CONFERENCIA  
+DO CONTEUDO DO ENVELOPE. 
+EM CASO DE DIFERENCA SERA CREDITADO O  
+VALOR CONFERIDO E NAO O VALOR DECLARADO. 
+ 
+****************************************
+    
+RECOLHIMENTO 
+ 
+DATA: 19/02/2020       HORA: 11:09 
+ID ATM: 0000016    SEQUENCIA:001172 
+ID OPERADOR: 003007 
+NOME: Operador Coleta 3007 
+ 
+ID COLETA: 7DE143CF 
+ 
+VALORES ANTES DO RECOLHIMENTO 
+	  
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0001           2,00 
+(A) TOTAL:                          2,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0001         935,00 
+    CHEQUES SANGRIA: 0001           0,66 
+(B) TOTAL:                        935,66 
+  
+TOTAL (A + B):                    937,66 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+VALORES DEPOIS DO RECOLHIMENTO 
+ 
+VALIDADOS: 
+    DEPOSITOS:       0000           0,00 
+    SANGRIA:         0000           0,00 
+(A) TOTAL:                          0,00 
+ 
+DECLARADOS:                           
+    CEDULAS:         0000           0,00 
+    CHEQUES:         0000           0,00 
+    CEDULAS SANGRIA: 0000           0,00 
+    CHEQUES SANGRIA: 0000           0,00 
+(B) TOTAL:                          0,00 
+  
+TOTAL (A + B):                      0,00 
+---------------------------------------- 
+DENOMINACAO  QUANTIDADE    TOTAL
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+**************************************** 
+DEPOSITO SANGRIA  
+ 
+DATA: 19/02/2020       HORA: 11:23 
+ID ATM: 0000016    SEQUENCIA:001190 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: 960ECECB 
+ID SANGRIA: 0000000555222 
+PDV: 0000000222555 
+ 
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00000    $        0,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 2,00
+Denominacao  Quantidade    Total
+$      2,00       00001     $        2,00
+$      5,00       00000     $        0,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+  
+**************************************** 
+DEPOSITO SANGRIA  
+ 
+DATA: 19/02/2020       HORA: 11:30 
+ID ATM: 0000016    SEQUENCIA:001205 
+ID OPERADOR: 001007 
+NOME: OperadorDeposito1007 
+ 
+ID COLETA: 960ECECB 
+ID SANGRIA: 0000000000666 
+PDV: 0000000000999 
+ 
+CONTADORES ANTES DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00001    $        2,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+EVT: ACEITADOR HABILITADO
+EVT: NOTA INSERIDA   VALOR: 2,00
+EVT: ACEITADOR DESABILITADO
+VALOR DEPOSITADO: 2,00
+Denominacao  Quantidade    Total
+$      2,00       00001     $        2,00
+$      5,00       00000     $        0,00
+$     10,00       00000     $        0,00
+$     20,00       00000     $        0,00
+$     50,00       00000     $        0,00
+$    100,00       00000     $        0,00
+CONTADORES DEPOIS DO DEPOSITO 
+Denominacao  Quantidade    Total
+$      2,00       00002    $        4,00
+$      5,00       00000    $        0,00
+$     10,00       00000    $        0,00
+$     20,00       00000    $        0,00
+$     50,00       00000    $        0,00
+$    100,00       00000    $        0,00
+ 
+SUB
+**************************************** 
+     IMPRESSAO DE CONTADORES DO EJ 
+DATA: 19/02/2020      HORA: 11:35:24 
+ID ATM: 00000016    SEQUENCIA: 001210 
+COMERCIO: 000000000000000 
+OPERADOR: 000000 
+ 
+       ERRO AO OBTER O ESTADO DO 
+     DISPENSADOR E SEUS CONTADORES 
+SUB
